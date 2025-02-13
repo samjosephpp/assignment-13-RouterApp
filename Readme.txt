@@ -20,3 +20,4 @@ Display the user's name, email, and phone number Add a loading state while fetch
 Styling: Use Bootstrap for basic styling and layout Add some custom CSS to enhance the appearance of your components 
 Bonus (Optional): Implement dynamic routing for the User page to display different users based on the URL parameter"
 
+https://github.com/samjosephpp/assignment-13-RouterApp.git
